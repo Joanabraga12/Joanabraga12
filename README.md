@@ -1,6 +1,6 @@
 # Hi, I'm Joana
 
-3rd-year **Informatics Engineering** student at [ISEP](https://www.isep.ipp.pt/) (Porto, Portugal).
+3rd-year **Informatics Engineering** student at [ISEP](https://www.isep.ipp.pt/) (Porto, Portugal), currently preparing for the **AWS Certified Cloud Practitioner**.
 
 I enjoy building software end to end — from the domain model and the database to the API, the user interface and the network underneath.
 
@@ -16,14 +16,15 @@ I enjoy building software end to end — from the domain model and the database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-24292e?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24292e?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-24292e?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Academic projects
 
-> These were developed in team repositories owned by ISEP, so the code is private.
+> Developed in teams at ISEP. Projects with a link have their code published here; the others live in private ISEP repositories.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **AISafe** — Flight Control & Simulation System | Air traffic management prototype with a flight-plan DSL, a TCP client-server back-office and a concurrent flight simulation with real-time collision detection | Java 21, C (processes, semaphores, shared memory), JPA, JUnit |
+| [**AISafe**](https://github.com/Joanabraga12/aisafe-flight-control) — Flight Control & Simulation System | Air traffic management prototype with a flight-plan DSL, a TCP client-server back-office and a concurrent flight simulation with real-time collision detection | Java 21, C (processes, semaphores, shared memory), JPA, JUnit |
 | **Airport Campus Network** | Multi-terminal network infrastructure: structured cabling, VLANs, OSPF, DHCP, VoIP, DNS, NAT and ACLs. I was Sprint Master in Sprint 2 | Cisco Packet Tracer |
 | **Logistics On Rails** | Railway logistics management system | Java, Oracle PL/SQL, C, Assembly |
 | **Facial Recognition with Eigenfaces** | Face reconstruction and identification using PCA | Java, linear algebra |
@@ -32,6 +33,7 @@ All projects followed **Scrum**, with unit and integration testing and UML docum
 
 ### Currently
 
+- Preparing for the **AWS Certified Cloud Practitioner** (CLF-C02)
 - Looking for a **curricular internship** in software development
 
 ### Contact
